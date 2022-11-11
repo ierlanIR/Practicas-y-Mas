@@ -1,0 +1,5 @@
+/home/c13851/Documents/proyecto3/build/CMakeFiles/rebuild_cache.dir
+/home/c13851/Documents/proyecto3/build/CMakeFiles/edit_cache.dir
+/home/c13851/Documents/proyecto3/build/src/CMakeFiles/rebuild_cache.dir
+/home/c13851/Documents/proyecto3/build/src/CMakeFiles/edit_cache.dir
+/home/c13851/Documents/proyecto3/build/src/CMakeFiles/proyecto3.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ConjuntoSet.hpp
+IConjunto.hpp
+-
+set
+-
+
+../include/ConjuntoUnorderedSet.hpp
+IConjunto.hpp
+-
+unordered_set
+-
+
+../include/ConjuntoVector.hpp
+IConjunto.hpp
+../include/IConjunto.hpp
+vector
+-
+algorithm
+-
+
+../include/IConjunto.hpp
+
+/home/c13851/Documents/proyecto3/src/main.cpp
+iostream
+-
+ConjuntoVector.hpp
+-
+ConjuntoSet.hpp
+-
+ConjuntoUnorderedSet.hpp
+-
+cassert
+-
+
